@@ -391,11 +391,9 @@ nav .menu ul li .active img {
   column-gap: 0;
 }
 
-
 #Banner_part .content .link a {
-  transform: scale(.8);
+  transform: scale(0.8);
 }
-
 
 #Banner_part .content .link .applink {
   display: flex;
